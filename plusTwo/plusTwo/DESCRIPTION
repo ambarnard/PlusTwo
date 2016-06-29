@@ -1,0 +1,14 @@
+Package: plusTwo
+Type: Package
+Title: This package contains functions to increase a given number by one or two.
+Version: 0.1
+Date: 2016-06-22
+Author: Allison Barnard
+Maintainer: Allison Barnard <ambarnard@ucdavis.edu>
+Description: This packages contains the functions plusOne and plusTwo. An
+    integer or float variable can be used as input arguments to increase the number
+    by one or two.
+License: UC Davis
+LazyData: TRUE
+RoxygenNote: 5.0.1
+Suggests: testthat
